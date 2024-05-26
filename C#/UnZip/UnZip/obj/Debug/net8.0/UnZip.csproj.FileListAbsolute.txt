@@ -1,0 +1,14 @@
+C:\Users\andri\source\repos\UnZip\UnZip\bin\Debug\net8.0\UnZip.exe
+C:\Users\andri\source\repos\UnZip\UnZip\bin\Debug\net8.0\UnZip.deps.json
+C:\Users\andri\source\repos\UnZip\UnZip\bin\Debug\net8.0\UnZip.runtimeconfig.json
+C:\Users\andri\source\repos\UnZip\UnZip\bin\Debug\net8.0\UnZip.dll
+C:\Users\andri\source\repos\UnZip\UnZip\bin\Debug\net8.0\UnZip.pdb
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.AssemblyInfo.cs
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.dll
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\refint\UnZip.dll
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.pdb
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\UnZip.genruntimeconfig.cache
+C:\Users\andri\source\repos\UnZip\UnZip\obj\Debug\net8.0\ref\UnZip.dll
